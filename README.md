@@ -22,7 +22,6 @@ I am always learning and building. I enjoy working on algorithms, full-stack web
 *   **Abyssinia Digital Library:** A web application for digital resources.
 *   **MiniGit:** A simplified version control system built from scratch in C++.
 *   **MiniPaint:** A vector drawing application using C++.
-*   **Leet-Streaks:** My daily problem-solving journey (check out my [LeetCode](https://leetcode.com/u/Amanuel-S/)).
 
 ### 🔗 Connect with me:
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanuel-solomon-06b03530a)
