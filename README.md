@@ -2,7 +2,7 @@
 
 # Hi, I'm Amanuel Solomon 
 
-### Software Engineering Student | AI & Machine Learning Enthusiast
+### Software Engineering Student | AI & Machine
 
 I am always learning and building. I enjoy working on algorithms, full-stack web apps, and exploring graphics and AI.
 
@@ -19,9 +19,10 @@ I am always learning and building. I enjoy working on algorithms, full-stack web
 </p>
 
 ### A few things I've built:
+*   **:** 
 *   **Abyssinia Digital Library:** A web application for digital resources.
 *   **MiniGit:** A simplified version control system built from scratch in C++.
 *   **MiniPaint:** A vector drawing application using C++.
 
 ### 🔗 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amanuel-solomon-06b03530a)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aman-solo)
