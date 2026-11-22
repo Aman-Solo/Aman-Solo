@@ -2,7 +2,7 @@
 
 # Hi, I'm Amanuel Solomon 
 
-### Software Engineering Student | AI & Machine
+### Software Engineer | AI & Machine | System Design 
 
 I am always learning and building. I enjoy working on algorithms, full-stack web apps, and exploring graphics and AI.
 
@@ -19,7 +19,7 @@ I am always learning and building. I enjoy working on algorithms, full-stack web
 </p>
 
 ### A few things I've built:
-*   **:** 
+*   **EV Spare Part Import Prioritization:** A reproducible 0–1 scoring model with sensitivity analysis ranks spare parts for BYD Yuan Up, Seagull, and VW ID.4 for an Ethiopian importer. 
 *   **Abyssinia Digital Library:** A web application for digital resources.
 *   **MiniGit:** A simplified version control system built from scratch in C++.
 *   **MiniPaint:** A vector drawing application using C++.
